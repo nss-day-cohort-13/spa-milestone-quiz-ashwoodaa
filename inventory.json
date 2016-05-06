@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "make": "Rogue",
+      "model": "Assassin",
+      "year": "6016",
+      "price": "1000",
+      "color": "Cyan",
+      "purchased": false,
+      "description": "This car can fly and float."
+    },
+        {
+      "make": "Transformer",
+      "model": "Optimus",
+      "year": "8024",
+      "price": "1000",
+      "color": "RedBlue",
+      "purchased": false,
+      "description": "It will transform."
+    },
+        {
+      "make": "Sputter",
+      "model": "It\'ll get you there.",
+      "year": "1972",
+      "price": "5",
+      "color": "BurntPopcorn",
+      "purchased": false,
+      "description": "We just want it off the lot. Please."
+    }
+
+  ]
+}
